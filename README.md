@@ -1,0 +1,1 @@
+# alpine-java8-scala2.10
